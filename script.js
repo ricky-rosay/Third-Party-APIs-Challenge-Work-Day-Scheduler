@@ -49,4 +49,19 @@ var interval = setInterval(function() {
     
     var init2 = JSON.parse(localStorage.getItem("02:00 pm"))
     twoPm.val(init2);
+
+    var init3 = JSON.parse(localStorage.getItem("03:00 pm"))
+    threePm.val(init3);
+   
+    var init4 = JSON.parse(localStorage.getItem("04:00 pm"))
+    fourPm.val(init4);
+    
+    var init5 = JSON.parse(localStorage.getItem("05:00 pm"))
+    fivePm.val(init5);
+    
+    var init6 = JSON.parse(localStorage.getItem("06:00 pm"))
+    sixPm.val(init6);
+    
+    var init7 = JSON.parse(localStorage.getItem("07:00 pm"))
+    sevenPm.val(init7);
   }
