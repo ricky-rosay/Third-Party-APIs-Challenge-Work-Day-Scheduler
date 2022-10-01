@@ -40,4 +40,13 @@ var interval = setInterval(function() {
     
     var init11 = JSON.parse(localStorage.getItem("11:00 am"))
     elevenAm.val(init11);
+
+    var init12 = JSON.parse(localStorage.getItem("12:00 pm"))
+    twelvePm.val(init12);
+    
+    var init1 = JSON.parse(localStorage.getItem("01:00 pm"))
+    onePm.val(init1);
+    
+    var init2 = JSON.parse(localStorage.getItem("02:00 pm"))
+    twoPm.val(init2);
   }
