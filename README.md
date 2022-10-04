@@ -4,6 +4,9 @@
 
 this is a work day schedular that allows you to schedule your busy day. When you put info into each box you can save it for the entire day. This also includes a "clear day" button which allows you to clear everything that you had saved for the day. This app also includes a timer at the top that give you a current time and date.
 
+URL:
+https://ricky-rosay.github.io/Third-Party-APIs-Challenge-Work-Day-Scheduler/
+
 ## Usage
 
 ![this image is a screenshot of the main page](./images/screenshot.png)
